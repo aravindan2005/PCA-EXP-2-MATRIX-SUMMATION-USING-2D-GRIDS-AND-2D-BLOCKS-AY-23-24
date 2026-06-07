@@ -1,4 +1,4 @@
-# PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks
+# PCA: EXP-2 Matrix Summation using 2D-Grids and 2D-Blocks
 
 <h3>NAME: ARAVINDAN T</h3>
 <h3>REGISTER NO : 2305001003</h3>
@@ -33,7 +33,7 @@ Google Colab with NVCC Compiler
 12.	Reset the device: Reset the device using cudaDeviceReset to ensure that all resources are cleaned up before the program exits.
 
 ## PROGRAM:
-```
+```cpp
 %%cuda
 #include <cuda_runtime.h>
 #include <stdio.h>
